@@ -6,8 +6,7 @@ public class JenkinsSample {
 		// TODO Auto-generated method stub
 		System.out.println("Sample project......");
 		System.out.println("Sample project......");
-		System.out.println("Sample project......");
-
+		
 	}
 
 }
